@@ -7,7 +7,7 @@ The PipraPay Checkout module allows you to effortlessly integrate payment soluti
 Installation Instructions
 -----------------------------------------
 
-1. Download the PipraPay.zip file from the "Releases" section of this repository.
+1. Download the [PipraPay.zip](https://github.com/PipraPay/active-ecommerce-piprapay-gateway/releases/download/v1.0.0/piprapay.zip) file from the "Releases" section of this repository.
 
 2. Login to your Active Admin Dashboard.
 
