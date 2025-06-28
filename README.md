@@ -35,6 +35,6 @@ Gateway Activation
 Support
 -----------------------------------------
 
-For issues or integration help, please contact UddoktaPay support.
+For issues or integration help, please contact PipraPay support.
 
-Thank you for choosing UddoktaPay!
+Thank you for choosing PipraPay!
